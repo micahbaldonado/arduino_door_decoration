@@ -1,7 +1,7 @@
 
 # Arduino Door Display with Sensor Integration
 
-This project was created for fun during my junior year at the University of North Carolina at Chapel Hill. I wanted to add a cool, interactive technical display to my bedroom, combining hardware and software for a personalized and engaging experience. The project utilizes an Arduino Uno, a DHT11 sensor, an IR receiver, and an LCD display to showcase personalized messages, environmental data, and remote-controlled interaction.
+This project was created for fun during the second semester of my junior year at the University of North Carolina at Chapel Hill. I wanted to create a cool, interactive, and technical display for my bedroom, blending hardware and software to serve as the ultimate piece of decor. This project utilizes an Arduino Uno, a DHT11 sensor, an IR receiver, and an LCD display to showcase personalized messages, environmental data, and enable remote-controlled interaction.
 
 ## Features
 - **Custom Messages:** Displays rotating, personalized messages on a 16x2 LCD screen.
