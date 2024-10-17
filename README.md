@@ -38,7 +38,7 @@ matrix[1][1] = "Humidity: " + String(humidity) + "%";
 ```
 
 ### Circuit Image
-![Arduino Display Setup](image.png)
+![Arduino Display Setup](arduino_display_setup.png)
 
 ## How to Use
 
