@@ -40,6 +40,8 @@ matrix[1][1] = "Humidity: " + String(humidity) + "%";
 ### Circuit Image
 ![Arduino Display Setup](arduino_display_setup.png)
 
+Note: the IRremote receiver is not featured in the image (I don't have pictures from after I attached it), but it was functional.
+
 ## How to Use
 
 1. **Set up the circuit** as shown in the image above.
@@ -47,6 +49,7 @@ matrix[1][1] = "Humidity: " + String(humidity) + "%";
 3. Use the **IR remote** to navigate through messages and data:
    - `0-9`: Displays different messages.
    - `ON/OFF`: Starts or stops the automatic cycling of messages.
+4. Connected the Arduino USB connctor to a power bank, which provides wattage within the tolerance of the Arduino.
 
 ## If I Had the Parts Again...
 
