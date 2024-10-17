@@ -49,7 +49,7 @@ Note: the IRremote receiver is not featured in the image (I don't have pictures 
 3. Use the **IR remote** to navigate through messages and data:
    - `0-9`: Displays different messages.
    - `ON/OFF`: Starts or stops the automatic cycling of messages.
-4. Connected the Arduino USB connctor to a power bank, which provides wattage within the tolerance of the Arduino.
+4. Connect the Arduino USB connctor to a power bank, which provides wattage within the tolerance of the Arduino.
 
 ## If I Had the Parts Again...
 
